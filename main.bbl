@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680, 2014.
+
+\bibitem{mirza2014conditional}
+Mehdi Mirza and Simon Osindero.
+\newblock Conditional generative adversarial nets.
+\newblock {\em arXiv preprint arXiv:1411.1784}, 2014.
+
+\bibitem{isola2017image}
+Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei~A Efros.
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1125--1134, 2017.
+
+\bibitem{mathematica}
+Mathematica.
+\newblock \url{https://www.wolfram.com/mathematica/}.
+
+\bibitem{Gmsh}
+Gmsh: a three-dimensional finite element mesh generator with built-in pre- and
+  post-processing facilities.
+\newblock \url{https://gmsh.info/}.
+
+\bibitem{quickersim}
+Quickersim: a cfd toolbox for matlab.
+\newblock \url{https://quickersim.com/cfdtoolbox/}.
+
+\bibitem{pix2pix}
+Image-to-image translation in pytorch.
+\newblock \url{https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/}.
+
+\end{thebibliography}
